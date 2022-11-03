@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['gethydrophobicdistance_0',['getHydrophobicDistance',['../classktl_molecule.html#a98d940f8feca44434c350255fcc5a4d8',1,'ktlMolecule']]],
+  ['gethydrophobicresidues_0',['getHydrophobicResidues',['../classktl_molecule.html#a263a3e39b2dea4ded750e22379650db4',1,'ktlMolecule']]],
   ['getmolecule_1',['getMolecule',['../classmolecule_fit_and_state.html#acfef1fe90077162b3f2b05fc9d60d2af',1,'moleculeFitAndState']]],
   ['getoverallfit_2',['getOverallFit',['../classmolecule_fit_and_state.html#a3f351e3fadb002fe42f7091c2b6cd9b3',1,'moleculeFitAndState']]],
   ['getsubsecsize_3',['getSubsecSize',['../classktl_molecule.html#a13114b774dcce946a542044fd5b244dc',1,'ktlMolecule']]],
